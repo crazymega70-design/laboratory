@@ -2,7 +2,7 @@ alert("Этот код выполнен из внешнего файла!");
 console.log("Сообщение в консоли");
 
 let name = "Игорь";
-let birthYear = 1995;
+let birthYear = 2006;
 let isStudent = true;
 
 console.log("Имя:", name);
@@ -21,4 +21,5 @@ if (score >= 90) {
 
 for (let i = 1; i <= 5; i++) {
     console.log(`Итерация: ${i}`);
+
 }
